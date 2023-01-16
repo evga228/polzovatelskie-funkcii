@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "polzovatelskie funkcii", "polzovatelskie funkcii\polzovatelskie funkcii.pyproj", "{7E921C2A-581E-4C89-9024-CE07AF5E324A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E921C2A-581E-4C89-9024-CE07AF5E324A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E921C2A-581E-4C89-9024-CE07AF5E324A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {908AC6F0-2EFB-4004-AE1B-D4C78DAD772B}
+	EndGlobalSection
+EndGlobal
